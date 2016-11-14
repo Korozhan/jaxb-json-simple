@@ -1,0 +1,19 @@
+{
+  "LastName": "Smith",
+  "FirstName": "John",
+  "MiddleName": "Ivanof",
+  "Gender": "male",
+  "Birthday": "10-10-2010",
+  "Birthplace": "England",
+  "Nationality": "eng",
+  "OfficialAddress": "string",
+  "PostalAddress": "string",
+  "IsResident": "true",
+  "PersonalNumber": "111111111",
+  "TaxId": "string",
+  "IdentityCard": "1111",
+  "ContactInfo": "string",
+  "LatinFirstName": "Johnn",
+  "LatinLastName": "Smith",
+  "SecretWord": "SecretWord"
+}
